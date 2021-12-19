@@ -8,7 +8,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-[](https://github.com/ahsennur/kodluyoruzilkrepo.git)
+[ ](https://github.com/ahsennur/kodluyoruzilkrepo.git)
 
 ## Usage 
 
@@ -26,4 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)
