@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
 
-Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![](temp.PNG)
 
@@ -8,7 +8,9 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-[ ](https://github.com/ahsennur/kodluyoruzilkrepo.git)
+```
+https://github.com/ahsennur/kodluyoruzilkrepo.git)
+```
 
 ## Usage 
 
